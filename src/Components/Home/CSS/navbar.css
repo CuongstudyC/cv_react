@@ -72,7 +72,9 @@
     color: var(--color-default);
     flex: 1;
     padding: 1% 0 2% 0;
+    min-height: 65vh;
 }
+
 .navbar-header .footer-customer {
     background-color: var(--color-header-footer);
     color: var(--color-default);
@@ -97,7 +99,10 @@
     width: 60%;
     margin: auto;
     gap: 30px;
+
 }
+
+
 
 .navbar-header .content-nav div:hover {
     scale: 1.2;
@@ -429,6 +434,7 @@
     margin: 6% auto;
     transform: translateX(5%);
 }
+
 .my-academy {
     display: block;
     word-wrap: break-word;
@@ -611,6 +617,26 @@
 @media (min-width:1001px) and (max-width: 1100px) {
     .nav-custome .content-nav div {
         transform: none;
+    }
+}
+
+/* danh cho may tinh sieu to */
+@media (min-height: 1080px) {
+
+    .home-page,
+    .About-me,
+    .my-academy {
+        margin-top: 10%;
+    }
+
+    #carrier {
+        margin: 0;
+    }
+}
+
+@media (min-height: 1300px) {
+    .main-content {
+        min-height: 73vh;
     }
 }
 
@@ -816,6 +842,7 @@
         width: max-content;
         margin-left: 12%;
     }
+
     .img-modal-content .left,
     .img-modal-content .right {
         height: 65%;
