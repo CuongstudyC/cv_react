@@ -1,0 +1,22 @@
+{
+    "data": [
+        {
+            "id": 0,
+            "subject": "Vật lý học",
+            "start": 2017,
+            "end": 2021,
+            "university": "Đại học khoa học tự nhiên",
+            "content": "Đã tốt nghiệp và tốt nghiệp loại khá với số điểm 7.5. Đạt 9.8 điểm khóa luận tốt nghiệp"
+        },
+
+        {
+            "id": 1,
+            "subject": "Lập trình viên",
+            "start": 2022,
+            "end": 2024,
+            "university": "Aptech",
+            "content": "Hiện đã học được 1 năm và sẽ tiếp tục học để tốt nghiệp. Đã tham dự cuộc thi techwiz do Ấn Độ tổ chức. Các ngôn ngữ lập trình đã được học: ",
+            "learned": ["C/C++","HTML5","CSS","JS thuần","SQL Server","java core", "C# core", "javaSwing","javaFX","mySQL","PHP","Laravel"]
+        }
+    ]
+}

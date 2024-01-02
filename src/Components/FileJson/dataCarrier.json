@@ -1,0 +1,46 @@
+{
+    "data": [
+        {
+            "id": 0,
+            "position": "Nhân viên siêu thị",
+            "start": 2021,
+            "end": 2022,
+            "company": "Siêu thị emart",
+            "content": [
+                "Làm việc theo chỉ thị của quản lí. Giờ giấc không xác định tùy theo quản lí sắp xếp và đã từng đi làm đêm từ 3h sáng tới 12h trưa.",
+                "Công việc chủ yếu chăm sóc hàng hóa. Kiểm tra hàng hóa và kiểm đát của sản phẩm",
+                "Khuâng vác hàng hóa từ công vào kho sau đó trưng bày sản phẩm cho khách tới lựa chọn",
+                "Khi sản phẩm có giảm giá thì lấy phiếu giảm giá gắn vào từng sản phẩm"
+            ]
+        },
+
+        {
+            "id": 1,
+            "position": "Nhân viên Tester",
+            "monthStart": 7,
+            "start": 2022,
+            "monthEnd": 8,
+            "end": 2022,
+            "company": "Công ty Nexon",
+            "content": [
+                "Tìm bug cho các sản phẩm game của nexon"
+            ]
+        },
+
+        {
+            "id": 2,
+            "position": "Nhân viên văn phòng",
+            "monthStart": 10,
+            "start": 2022,
+            "end": "Nay",
+            "company": "Công ty truyền thông Lam Hồng",
+            "content": [
+                "Làm theo yêu cầu của quản lí",
+                "Công việc chủ yếu làm báo cáo, xử lí các hồ sơ văn phòng",
+                "Khi có sự kiện thì đi set up hội trường/hội thảo, chuản bị dịch vụ tốt nhất cho hội thảo, phát quà tặng cho khách hàng..."
+            ]
+        }
+
+
+    ]
+}
